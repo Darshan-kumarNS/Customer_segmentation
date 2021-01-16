@@ -40,4 +40,4 @@ def predict():
 
             
 if __name__ == "__main__":
-    app.run(debug=Flask) # use debug = False for jupyter notebook
+    app.run(debug=False) # use debug = False for jupyter notebook
